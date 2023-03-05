@@ -20,17 +20,16 @@ The website includes the following features:
 To view the website locally on your computer, follow these steps:
 
 * Clone the repository to your local machine using the command:
-#### `git clone https://github.com/goelraghav002/myportfolio.git`
+<br/> `git clone https://github.com/goelraghav002/myportfolio.git`
 
 * Navigate to the project directory using the command:
-
-#### `cd myportfolio`
+<br/> `cd myportfolio`
 
 * Install the project dependencies by running the following command:
-#### `npm install --legacy-peer-deps`
+<br/> `npm install --legacy-peer-deps`
 
 * Start the development server by running the following command:
-#### `npm run dev`
+<br/> `npm run dev`
 
 * Note: The npm run dev command is set up in the package.json file to start the development server using the vite command. If you want to build the production-ready version of your app, you can use the npm run build command, which will create an optimized build in the dist directory.
 
