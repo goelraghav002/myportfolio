@@ -16,6 +16,7 @@ import {
   figma,
   docker,
   meta,
+  madmetaverse,
   starbucks,
   tesla,
   shopify,
@@ -198,9 +199,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Mad Metaverse",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Mad Metaverse is a virtual world where users can create avatars, socialize, and play games. It offers an immersive experience with cutting-edge graphics and technology.",
     tags: [
       {
         name: "react",
@@ -215,8 +216,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: madmetaverse,
+    source_code_link: "https://github.com/goelraghav002/metaverse",
   },
   {
     name: "Job IT",
