@@ -204,11 +204,11 @@ const projects = [
       "Mad Metaverse is a virtual world where users can create avatars, socialize, and play games. It offers an immersive experience with cutting-edge graphics and technology.",
     tags: [
       {
-        name: "react",
+        name: "next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "metaverse",
         color: "green-text-gradient",
       },
       {
